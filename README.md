@@ -7,7 +7,7 @@ iPython (Jupyter) notebooks file for featuring engineering, modeling and predict
 1. Airbnb-user-explore.ipynb: User data exploratory analysis
 2. Airbnb-session-explore.ipynb: User's sessions data exploratory analysis and data preparation for merging with user data
 3. Airbnb-destination-prediction-main.ipynb: 'Main file' for features engineering, modeling and generating prediction file
-4. Airbnb-destination-prediction-visualization.ipynb: similar to feature-engineering-and-prediction file but adding visualization along in the notebook file
+4. Airbnb-destination-prediction-visualization.ipynb: includes additional visualization from the main file 
 
 ### Methodology:
 #### Feature selection and feature engineering:
